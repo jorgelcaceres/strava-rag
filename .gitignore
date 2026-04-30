@@ -2,3 +2,7 @@
 .env
 .envrc
 .venv/
+.sfdx/
+history.json
+*.log
+.DS_Store
