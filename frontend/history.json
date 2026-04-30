@@ -1,0 +1,137 @@
+[
+  {
+    "role": "user",
+    "text": "how many times have I been to sausalito"
+  },
+  {
+    "role": "assistant",
+    "text": "You have been to Sausalito three times based on the provided activity context:\n1. 2017-12-24T08:25:57Z\n2. 2021-11-13T08:02:01Z\n3. 2024-10-20T08:32:30Z",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "how many rides say gravel"
+  },
+  {
+    "role": "assistant",
+    "text": "There are 4 rides that mention gravel:\n1. 2019-11-27T08:15:09Z\n2. 2022-01-09T08:54:37Z\n3. 2025-06-17T10:57:32Z\n4. 2020-12-27T09:19:40Z",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "give me the text or description for my rides to sausalito"
+  },
+  {
+    "role": "assistant",
+    "text": "The text or description for your rides to Sausalito are as follows:\n- \"The Classic Sausalito\" (2023-03-18)\n- \"Sausalito again!\" (2024-10-20)\n- \"The return to Sausalito\" (2021-01-10)\n- \"Sausalito\" (2018-12-23)",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "do I have any that indicate half moon bay"
+  },
+  {
+    "role": "assistant",
+    "text": "Yes, you have an activity that indicates Half Moon Bay: \"Half Moon Bay half century\" on 2020-04-18T07:52:50Z.",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "what's the oldest entry you can find"
+  },
+  {
+    "role": "assistant",
+    "text": "The oldest entry I can find is \"Into The Woods\" on 2023-07-14T17:45:18Z.",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "are you sure? you just told me the Half Moon Bay one was on 2020"
+  },
+  {
+    "role": "assistant",
+    "text": "I apologize for the confusion. The \"Half Moon Bay half century\" activity took place on 2020-04-18.",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "so what is the oldest entry that you can see"
+  },
+  {
+    "role": "assistant",
+    "text": "The oldest entry I can see is \"Time Travel Back to 10 Years Old, riding puddles after the rain\" on 2024-11-24T08:37:54Z.",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "i mean the date of the ride, what's the oldest?"
+  },
+  {
+    "role": "assistant",
+    "text": "The oldest ride date is January 8, 2019, from the entry: \"2019-01-08T08:29:29Z | First commute of 2019 also first ride.\"",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "how many rides do you think were commute?"
+  },
+  {
+    "role": "assistant",
+    "text": "Based on the provided context, there are at least 4 rides that were commutes. These are indicated by the entries mentioning \"commute\" and \"commute back.\"",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "show me the details of my commute rides"
+  },
+  {
+    "role": "assistant",
+    "text": "I don't know.",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "show me the description of the rides that indicate \"commute\""
+  },
+  {
+    "role": "assistant",
+    "text": "The rides that indicate \"commute\" are as follows:\n- 2022-02-04T07:49:20Z | commute part 1 (once again forgot to hit start on part 2)\n- 2022-10-07T08:55:52Z | Commute part 1\n- 2019-06-04T17:04:09Z | Commute back\n- 2019-06-26T08:36:59Z | Commute",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "give me the sausalito entries again and include description and distance"
+  },
+  {
+    "role": "assistant",
+    "text": "Here are the Sausalito entries with descriptions and distances:\n\n1. 2018-12-23T08:16:13Z | Sausalito\n   - Distance: Not provided\n\n2. 2021-01-10T08:10:31Z | The return to Sausalito\n   - Distance: Not provided\n\n3. 2024-10-20T08:32:30Z | Sausalito again!\n   - Distance: Not provided\n\nUnfortunately, the specific distances for these activities are not provided in the context.",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "how about do you see Distance_m"
+  },
+  {
+    "role": "assistant",
+    "text": "I don't know.",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "give me the sausalito entries again and include description and distance_m"
+  },
+  {
+    "role": "assistant",
+    "text": "- 2018-12-23T08:16:13Z | Sausalito | Distance: N/A\n- 2017-10-01T08:40:27Z | Sausalito | Distance: N/A\n- 2018-01-07T08:07:08Z | Sausalito | Distance: N/A\n- 2019-02-17T08:08:42Z | Sausalito | Distance: N/A",
+    "sources": []
+  },
+  {
+    "role": "user",
+    "text": "give me the sausalito entries with distance included"
+  },
+  {
+    "role": "assistant",
+    "text": "I don't have the specific distances for the Sausalito entries.",
+    "sources": []
+  }
+]

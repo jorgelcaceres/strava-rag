@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+openai
+pinecone-client
+tiktoken
+sentence-transformers
+langchain
+langchain-community
